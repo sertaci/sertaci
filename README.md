@@ -5,8 +5,8 @@
 - I have worked on: 
     Autonomous Systems, 
     Designing a simulation environment using Gazebo,
-    Traffic sign detection
-    Discord bots,
+    Traffic sign detection,
+    Discord bots
     
 - Contact at: nc.sertac@gmail.com
 
