@@ -1,4 +1,4 @@
-### Hi 
+### Hello Y'all 👋🏻
 
 - My name is Sertac. I am Junior at Ankara Yildirim Beyazit University.
 - I’m currently learning Pytorch, Java, C.
