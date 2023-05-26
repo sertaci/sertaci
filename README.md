@@ -2,7 +2,7 @@
 
 - My name is Sertac. I am Junior at Ankara Yildirim Beyazit University.
 - I’m currently learning Pytorch, Java, C.
-- I have worked on:
+- I have worked on: 
     Autonomous Systems, 
     Designing a simulation environment using Gazebo,
     Traffic sign detection
