@@ -1,7 +1,7 @@
 ### Hello Y'all 👋🏻
 
 - My name is Sertac. I am Junior at Ankara Yildirim Beyazit University.
-- I’m currently learning Python(ML, DL), Java(Primitive AI, Data Structures, JavaFX), C.
+- I’m currently learning Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures, JavaFX), C.
 - I have worked on: 
     Autonomous Systems, 
     Designing a simulation environment using Gazebo,
