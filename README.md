@@ -32,6 +32,6 @@
 
 
 <a href="https://github.com/sertaci">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sertaci&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width=390/>
+<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertaci&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
 
