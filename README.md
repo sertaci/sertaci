@@ -32,7 +32,7 @@
 
 
 <a href="https://github.com/sertaci">
-<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertaci&theme=radical&hide_border=true" />
+<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertaci&theme=radical&layout=compact&hide_border=true" />
 </a>
 
 
