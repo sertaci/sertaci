@@ -3,10 +3,15 @@
 - My name is Sertac. I am Junior at Ankara Yildirim Beyazit University.
 - I’m currently learning Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures, JavaFX), C.
 - I have worked on: 
+
     Autonomous Systems, 
+    
     Designing a simulation environment using Gazebo,
+    
     Traffic sign detection,
-    and Discord bots.
+    
+    Discord bots.
+    
     
 - Contact at: nc.sertac@gmail.com
 
