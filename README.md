@@ -22,16 +22,18 @@
 <br>
 
 <a href="https://github.com/sertaci">
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sertaci&theme=tokyonight&border=61dafb&hide_border=true"/>
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sertaci&theme=radical&border=61dafb&hide_border=true"/>
 </a>
 
  
 <a href="https://github.com/sertaci">
-<img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=sertaci&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+<img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=sertaci&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
 </a>
 
 
 <a href="https://github.com/sertaci">
-<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertaci&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertaci&theme=radical&hide_border=true" />
 </a>
+
+
 
