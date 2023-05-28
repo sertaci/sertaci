@@ -6,7 +6,7 @@
     Autonomous Systems, 
     Designing a simulation environment using Gazebo,
     Traffic sign detection,
-    Discord bots.
+    and Discord bots.
     
 - Contact at: nc.sertac@gmail.com
 
