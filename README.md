@@ -4,13 +4,13 @@
 - I’m currently learning Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures, JavaFX), C.
 - I have worked on: 
 
-    Autonomous Systems, 
+    - Autonomous Systems, 
     
-    Designing a simulation environment using Gazebo,
+    - Designing a simulation environment using Gazebo,
     
-    Traffic sign detection,
+    - Traffic sign detection,
     
-    Discord bots.
+    - Discord bots.
     
     
 - Contact at: nc.sertac@gmail.com
