@@ -1,7 +1,13 @@
 <h3 align=center> Hello Y'all 👋 </h3>
+<br>
+
+
 <div align=center>
   <img width=100 src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </div>
+
+<br>
+<br>
 
 - My name is Sertac. I am Junior at Ankara Yildirim Beyazit University.
 - I’m currently learning Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures), C/C++.
