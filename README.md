@@ -16,11 +16,14 @@
     - Autonomous Systems, 
     
     - Designing a simulation environment using Gazebo,
-    
-    - Traffic sign detection,
-    
-    - Discord bots.
-    
+ 
+    - Computer Vision,
+        
+    - Discord bots,
+ 
+    - Java desktop application with JavaFX.
+ 
+         
     
 - Contact at: nc.sertac@gmail.com
 
