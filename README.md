@@ -1,7 +1,5 @@
-<h3 align=center> Hello Y'all 👋 </h3>
-<br>
 
-- My name is Sertac. I am currently CS Senior at Ankara Yildirim Beyazit University.
+- I am Sertac. I am currently CS Senior at Ankara Yildirim Beyazit University.
 - I’m currently working with Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures), C/C++.
 - I have worked on: 
 
