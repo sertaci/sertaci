@@ -3,7 +3,9 @@
 - I’m currently working with Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures), C/C++.
 - I have worked on: 
 
-    - Autonomous Systems, 
+    - Autonomous Systems (A full-scale autonomous vehicle),
+      
+    - Artificial Intelligence Algorithms,
     
     - Designing a simulation environment using Gazebo,
  
@@ -12,6 +14,8 @@
     - Discord bots,
  
     - Java desktop application with JavaFX.
+ 
+    
  
          
 <p>
