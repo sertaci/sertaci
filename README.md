@@ -1,11 +1,13 @@
 
-- I am Sertac. I am currently Computer Engineering Senior at Ankara Yildirim Beyazit University.
-- I’m currently working with Python(ML-Sklearn, DL-Pytorch), Java(Primitive AI, Data Structures), C/C++.
+- I am Sertac. I am currently Software Engineer.
+- I’m currently working with C/C++,Python, and Java.
 - I have worked on: 
 
-    - Autonomous Systems (A full-scale autonomous vehicle),
+    - Autonomous Systems (A full-scale autonomous car),
       
-    - Artificial Intelligence Algorithms,
+    - AI Algorithms,
+
+    - Remote Sensing,
     
     - Designing a simulation environment using Gazebo,
  
