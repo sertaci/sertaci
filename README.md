@@ -1,5 +1,5 @@
 
-- I am Sertac. I am currently Software Engineer.
+- I am Sertac. I am currently a Software Engineer.
 - I’m currently working with C/C++,Python, and Java.
 - I have worked on: 
 
